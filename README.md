@@ -6,7 +6,9 @@ I've presented this at SaberSeminar 2023 and you can find the link to my slides 
 My visualizations:
 
 Posteriord Distribution for Arm Strength:
+
 ![Posterior Distribution for Arm Strength:](https://github.com/jvminkim/SB-Clustering-Project/blob/main/Arm_strength%2C%20cluster.png)
 
 Posterior Distribution for Cluster/Intercept:
+
 ![Posterior Distribution for Cluster/Intercept:](https://github.com/jvminkim/SB-Clustering-Project/blob/main/Intercept%2C%20Posterior.png)
